@@ -1,0 +1,13 @@
+{
+  "name": "workbench-plugins",
+  "owner": {
+    "name": "Ethan"
+  },
+  "plugins": [
+    {
+      "name": "ratchet",
+      "source": "http://gitea.your-nas.local/workbench/ratchet.git",
+      "description": "Intent-driven execution with ratchet optimization. Dual-track verification, autonomous iteration, cross-domain support."
+    }
+  ]
+}
