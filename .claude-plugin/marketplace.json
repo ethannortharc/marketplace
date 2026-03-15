@@ -10,8 +10,8 @@
         "source": "url",
         "url": "https://git.giomni.com/workbench/ratchet.git"
       },
-      "description": "Intent-driven execution with ratchet optimization. Dual-track verification, autonomous iteration, cross-domain support.",
-      "version": "0.3.0",
+      "description": "Intent-driven execution with ratchet optimization. Workspace isolation, lifecycle management, dual-track verification, proof of work, autonomous iteration.",
+      "version": "1.0.0",
       "strict": true
     }
   ]
