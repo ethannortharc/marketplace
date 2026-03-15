@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "ratchet",
-      "source": "http://gitea.your-nas.local/workbench/ratchet.git",
+      "source": "https://git.giomni.com/workbench/ratchet.git",
       "description": "Intent-driven execution with ratchet optimization. Dual-track verification, autonomous iteration, cross-domain support."
     }
   ]
