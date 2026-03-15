@@ -6,8 +6,13 @@
   "plugins": [
     {
       "name": "ratchet",
-      "source": "https://git.giomni.com/workbench/ratchet.git",
-      "description": "Intent-driven execution with ratchet optimization. Dual-track verification, autonomous iteration, cross-domain support."
+      "source": {
+        "source": "url",
+        "url": "https://git.giomni.com/workbench/ratchet.git"
+      },
+      "description": "Intent-driven execution with ratchet optimization. Dual-track verification, autonomous iteration, cross-domain support.",
+      "version": "0.1.0",
+      "strict": true
     }
   ]
 }
