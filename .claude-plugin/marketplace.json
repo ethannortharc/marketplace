@@ -8,10 +8,10 @@
       "name": "ratchet",
       "source": {
         "source": "url",
-        "url": "https://git.giomni.com/workbench/ratchet.git"
+        "url": "https://github.com/ethannortharc/ratchet.git"
       },
       "description": "Intent-driven autonomous execution. Two human touchpoints: spec and review. Subagent architecture, multi-level verification, ratchet optimization.",
-      "version": "2.0.0",
+      "version": "3.1.0",
       "strict": true
     }
   ]
