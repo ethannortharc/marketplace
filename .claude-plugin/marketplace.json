@@ -10,8 +10,8 @@
         "source": "url",
         "url": "https://github.com/ethannortharc/ratchet.git"
       },
-      "description": "Intent-driven autonomous execution. Two human touchpoints: spec and review. Subagent architecture, multi-level verification, ratchet optimization.",
-      "version": "3.1.0",
+      "description": "Intent-driven autonomous execution. Multi-perspective story alignment, sprint-based planning, ratchet optimization. Two touchpoints: story/spec and review.",
+      "version": "5.1.0",
       "strict": true
     }
   ]
