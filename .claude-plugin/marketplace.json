@@ -10,8 +10,8 @@
         "source": "url",
         "url": "https://github.com/ethannortharc/ratchet.git"
       },
-      "description": "Intent-driven autonomous execution. Multi-perspective story alignment, sprint-based planning, ratchet optimization. Two touchpoints: story/spec and review.",
-      "version": "5.1.0",
+      "description": "Multi-agent collaboration platform. Python tools for process management, Claude Code agents for creative work. Dual-track: Story ↔ Backlog ↔ Sprint. SQLite, agent DAG, regression testing.",
+      "version": "6.0.0",
       "strict": true
     }
   ]

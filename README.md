@@ -6,7 +6,7 @@ Personal Claude Code plugin marketplace.
 
 | Plugin | Version | Description |
 |--------|---------|-------------|
-| [ratchet](https://github.com/ethannortharc/ratchet) | 5.1.0 | Intent-driven autonomous execution with multi-perspective story alignment, sprint planning, and ratchet optimization |
+| [ratchet](https://github.com/ethannortharc/ratchet) | 6.0.0 | Multi-agent collaboration platform with Python process management, dual-track Story/Sprint model, SQLite state, and regression testing |
 
 ## Install
 
